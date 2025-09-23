@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Bit Manipulation
 |  |
@@ -34,4 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
