@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Simulation
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
