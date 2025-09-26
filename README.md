@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2083-three-divisors](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2491-smallest-even-multiple) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2491-smallest-even-multiple) |
 ## Enumeration
 |  |
 | ------- |
