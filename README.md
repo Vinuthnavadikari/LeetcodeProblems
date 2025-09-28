@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0504-base-7) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1260-day-of-the-year](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1260-day-of-the-year) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1260-day-of-the-year](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1260-day-of-the-year) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2083-three-divisors](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2106-find-greatest-common-divisor-of-array) |
