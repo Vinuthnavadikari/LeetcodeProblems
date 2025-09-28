@@ -12,18 +12,17 @@ class Solution {
         int[] daysInMonth = {31,28,31,30,31,30,31,31,30,31,30,31};
         int days = 0;
 
-        // Add days for all years before current year
+        
         for (int y = 1971; y < year; y++) {
             days += isLeap(y) ? 366 : 365;
         }
 
-        // Add days for all months before current month
+        
         for (int m = 1; m < month; m++) {
             days += daysInMonth[m - 1];
-            if (m == 2 && isLeap(year)) days++; // February in leap year
+            if (m == 2 && isLeap(year)) days++;
         }
 
-        // Add days in current month
         days += day;
 
         return days;
