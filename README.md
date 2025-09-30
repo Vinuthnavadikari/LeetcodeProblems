@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2083-three-divisors) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Prefix Sum
 |  |
 | ------- |
