@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Brainteaser
@@ -185,6 +187,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2132-convert-1d-array-into-2d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
