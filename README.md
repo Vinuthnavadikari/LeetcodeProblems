@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0657-robot-return-to-origin) |
+| [0742-to-lower-case](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0742-to-lower-case) |
 | [0953-reverse-only-letters](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0953-reverse-only-letters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1260-day-of-the-year) |
