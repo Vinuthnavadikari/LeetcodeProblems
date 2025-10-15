@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0492-construct-the-rectangle) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0476-number-complement) |
