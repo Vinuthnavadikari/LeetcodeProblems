@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0389-find-the-difference) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
