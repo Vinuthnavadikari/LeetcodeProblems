@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1274-number-of-days-between-two-dates) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2235-capitalize-the-title](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2235-capitalize-the-title) |
 | [2886-faulty-keyboard](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3194-find-words-containing-character) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 ## Matrix
 |  |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+## Greedy
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
