@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2491-smallest-even-multiple) |
+| [2556-convert-the-temperature](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2556-convert-the-temperature) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2619-categorize-box-according-to-criteria) |
 | [3371-harshad-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
