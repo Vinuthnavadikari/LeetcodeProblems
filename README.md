@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1274-number-of-days-between-two-dates) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2235-capitalize-the-title) |
 | [2881-split-strings-by-separator](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2881-split-strings-by-separator](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2881-split-strings-by-separator) |
