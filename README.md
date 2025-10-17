@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1274-number-of-days-between-two-dates) |
 | [1289-day-of-the-week](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1289-day-of-the-week) |
+| [1610-xor-operation-in-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0476-number-complement) |
+| [1610-xor-operation-in-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1610-xor-operation-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 ## Recursion
 |  |
