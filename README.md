@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2083-three-divisors](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2556-convert-the-temperature) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
