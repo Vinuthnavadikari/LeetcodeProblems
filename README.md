@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3194-find-words-containing-character) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3451-string-compression-iii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3451-string-compression-iii) |
+| [3567-convert-date-to-binary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3567-convert-date-to-binary) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3567-convert-date-to-binary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3567-convert-date-to-binary) |
 | [3830-find-closest-person](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
