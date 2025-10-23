@@ -9,6 +9,5 @@ class Solution {
             s=next.toString();
         }
         return s.charAt(0)==s.charAt(1);
-
     }
 }
