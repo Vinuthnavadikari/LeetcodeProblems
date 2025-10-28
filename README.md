@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
