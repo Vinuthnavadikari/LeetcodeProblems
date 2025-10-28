@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Heap (Priority Queue)
