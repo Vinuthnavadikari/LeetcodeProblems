@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4008-restore-finishing-order](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/4008-restore-finishing-order) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2235-capitalize-the-title) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3194-find-words-containing-character) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3194-find-words-containing-character) |
 | [3429-special-array-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3429-special-array-i) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
