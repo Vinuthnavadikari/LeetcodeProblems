@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3226-minimum-number-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3778-transform-array-by-parity) |
 ## Math
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3194-find-words-containing-character) |
+| [3226-minimum-number-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3226-minimum-number-game) |
 | [3429-special-array-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
+| [3226-minimum-number-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3811-reverse-degree-of-a-string) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0948-sort-an-array) |
+| [3226-minimum-number-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
