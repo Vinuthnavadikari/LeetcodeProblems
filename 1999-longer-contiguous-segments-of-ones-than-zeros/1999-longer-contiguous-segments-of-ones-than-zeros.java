@@ -23,7 +23,7 @@ class Solution {
                 
             }
         }
-        return max1>max2?true:false;
+        return max1>max2;
 
 
     }
