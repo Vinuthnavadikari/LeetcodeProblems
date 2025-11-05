@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3778-transform-array-by-parity) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2881-split-strings-by-separator) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3226-minimum-number-game) |
 | [3429-special-array-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3429-special-array-i) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Brainteaser
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1168-duplicate-zeros) |
 | [2128-reverse-prefix-of-word](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2128-reverse-prefix-of-word) |
 | [2481-strictly-palindromic-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2481-strictly-palindromic-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Stack
 |  |
