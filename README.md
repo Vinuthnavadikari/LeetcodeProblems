@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1797-goal-parser-interpretation) |
 | [1944-truncate-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1944-truncate-sentence) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2107-find-unique-binary-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0657-robot-return-to-origin) |
 | [1806-count-of-matches-in-tournament](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2288-count-operations-to-obtain-zero) |
