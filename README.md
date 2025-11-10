@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1791-richest-customer-wealth) |
 | [1944-truncate-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1944-truncate-sentence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0657-robot-return-to-origin) |
 | [1806-count-of-matches-in-tournament](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1806-count-of-matches-in-tournament) |
+| [2048-build-array-from-permutation](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2132-convert-1d-array-into-2d-array) |
