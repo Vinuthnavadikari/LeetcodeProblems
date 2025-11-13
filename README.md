@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1274-number-of-days-between-two-dates](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1274-number-of-days-between-two-dates) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1542-consecutive-characters](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1542-consecutive-characters) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1797-goal-parser-interpretation) |
 | [1944-truncate-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1944-truncate-sentence) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1791-richest-customer-wealth) |
 | [1944-truncate-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1944-truncate-sentence) |
