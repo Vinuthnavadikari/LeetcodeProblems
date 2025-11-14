@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
+| [1656-count-good-triplets](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2083-three-divisors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2215-finding-3-digit-even-numbers) |
