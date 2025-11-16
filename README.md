@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1274-number-of-days-between-two-dates](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1274-number-of-days-between-two-dates) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1542-consecutive-characters](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1542-consecutive-characters) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1797-goal-parser-interpretation) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1817-calculate-money-in-leetcode-bank) |
