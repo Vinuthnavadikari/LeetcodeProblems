@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3226-minimum-number-game) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3429-special-array-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2714-left-and-right-sum-differences) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Queue
 |  |
 | ------- |
