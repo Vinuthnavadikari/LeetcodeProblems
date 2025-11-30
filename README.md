@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1797-goal-parser-interpretation) |
+| [1859-sorting-the-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1859-sorting-the-sentence) |
 | [1944-truncate-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1944-truncate-sentence) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1859-sorting-the-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1859-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2215-finding-3-digit-even-numbers) |
