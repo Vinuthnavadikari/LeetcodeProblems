@@ -7,7 +7,5 @@ class Solution {
             result[idx-1]=word.substring(0,word.length()-1);
         }
         return String.join(" ",result);
-
-
     }
 }
