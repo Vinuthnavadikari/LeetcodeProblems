@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3194-find-words-containing-character) |
+| [3280-convert-date-to-binary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3280-convert-date-to-binary) |
 | [3379-score-of-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3451-string-compression-iii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3451-string-compression-iii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3280-convert-date-to-binary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3280-convert-date-to-binary) |
 | [3371-harshad-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
