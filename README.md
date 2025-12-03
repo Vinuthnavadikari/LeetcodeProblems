@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3226-minimum-number-game) |
+| [3285-find-indices-of-stable-mountains](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3429-special-array-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3429-special-array-i) |
