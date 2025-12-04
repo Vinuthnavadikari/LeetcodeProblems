@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1797-goal-parser-interpretation) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1859-sorting-the-sentence) |
 | [1944-truncate-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1944-truncate-sentence) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
