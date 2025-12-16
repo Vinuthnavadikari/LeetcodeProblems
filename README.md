@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2491-smallest-even-multiple) |
+| [2544-alternating-digit-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2544-alternating-digit-sum) |
 | [2556-convert-the-temperature](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2571-find-the-pivot-integer) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2619-categorize-box-according-to-criteria) |
