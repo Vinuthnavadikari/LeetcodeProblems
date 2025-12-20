@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0196-delete-duplicate-emails) |
 | [1068-product-sales-analysis-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1068-product-sales-analysis-i) |
 | [1683-invalid-tweets](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1693-daily-leads-and-partners) |
