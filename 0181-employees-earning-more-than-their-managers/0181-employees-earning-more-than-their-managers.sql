@@ -4,6 +4,11 @@
 -- JOIN employee e2
 -- ON e1.id=e2.managerId
 -- WHERE e1.salary<e2.salary;
-SELECT name as Employee
+-- SELECT name as Employee
+-- FROM Employee e
+-- WHERE salary >(SELECT salary from Employee m WHERE m.id=e.managerId);
+SELECT e.name AS Employee
 FROM Employee e
-WHERE salary >(SELECT salary from Employee m WHERE m.id=e.managerId);
+JOIN Employee m
+ON e.managerId=m.id
+WHERE e.salary>m.salary;
