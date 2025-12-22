@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1084-sales-analysis-iii) |
 | [1683-invalid-tweets](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1741-find-total-time-spent-by-each-employee) |
