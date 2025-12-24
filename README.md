@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1179-reformat-department-table](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1179-reformat-department-table) |
+| [1211-queries-quality-and-percentage](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1211-queries-quality-and-percentage) |
 | [1683-invalid-tweets](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1741-find-total-time-spent-by-each-employee) |
