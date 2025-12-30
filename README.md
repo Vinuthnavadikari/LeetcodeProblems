@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0389-find-the-difference) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0344-reverse-string) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Database
