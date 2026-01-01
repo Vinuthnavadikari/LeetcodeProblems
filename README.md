@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1528-shuffle-string) |
 | [1542-consecutive-characters](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1542-consecutive-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1797-goal-parser-interpretation) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1323-maximum-69-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1323-maximum-69-number) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3074-apple-redistribution-into-boxes) |
