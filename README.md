@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0070-climbing-stairs) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0169-majority-element) |
