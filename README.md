@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2502-sort-the-people) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
@@ -475,11 +479,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0948-sort-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3226-minimum-number-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
