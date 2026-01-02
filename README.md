@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3280-convert-date-to-binary) |
 | [3379-score-of-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3451-string-compression-iii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3451-string-compression-iii) |
 | [3567-convert-date-to-binary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3567-convert-date-to-binary) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3778-transform-array-by-parity](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3778-transform-array-by-parity) |
 ## Matrix
 |  |
