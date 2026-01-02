@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0069-sqrtx) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0415-add-strings) |
