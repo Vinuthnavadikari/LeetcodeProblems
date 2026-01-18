@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3451-string-compression-iii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3451-string-compression-iii) |
 | [3567-convert-date-to-binary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3567-convert-date-to-binary) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3811-reverse-degree-of-a-string) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
