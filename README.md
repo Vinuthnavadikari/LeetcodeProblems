@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3226-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3285-find-indices-of-stable-mountains) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3429-special-array-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3429-special-array-i) |
