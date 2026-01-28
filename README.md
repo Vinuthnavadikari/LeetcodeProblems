@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2578-split-with-minimum-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2578-split-with-minimum-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3226-minimum-number-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3226-minimum-number-game) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2544-alternating-digit-sum) |
 | [2556-convert-the-temperature](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2571-find-the-pivot-integer) |
+| [2578-split-with-minimum-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2578-split-with-minimum-sum) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2619-categorize-box-according-to-criteria) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2812-find-the-maximum-achievable-number) |
 | [2864-maximum-odd-binary-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2864-maximum-odd-binary-number) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2578-split-with-minimum-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2578-split-with-minimum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2864-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
