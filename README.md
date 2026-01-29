@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2325-decode-the-message) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2502-sort-the-people](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2502-sort-the-people](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2502-sort-the-people) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1168-duplicate-zeros) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2128-reverse-prefix-of-word) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2083-three-divisors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2427-number-of-common-factors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2998-count-symmetric-integers) |
