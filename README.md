@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2107-find-unique-binary-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1797-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1859-sorting-the-sentence) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1944-truncate-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1944-truncate-sentence) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2076-sum-of-digits-of-string-after-convert) |
