@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3811-reverse-degree-of-a-string) |
 ## Sorting
 |  |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3794-reverse-string-prefix](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
