@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1528-shuffle-string) |
 | [1542-consecutive-characters](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1542-consecutive-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0739-daily-temperatures) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
