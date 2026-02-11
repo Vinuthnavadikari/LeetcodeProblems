@@ -709,4 +709,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0938-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0938-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
