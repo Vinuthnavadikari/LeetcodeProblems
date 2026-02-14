@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0342-power-of-four) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -737,5 +740,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
