@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0322-coin-change) |
 ## Linked List
 |  |
@@ -717,10 +718,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -729,5 +732,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
