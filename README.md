@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1436-destination-city](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1436-destination-city) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0657-robot-return-to-origin) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1603-design-parking-system) |
 | [1806-count-of-matches-in-tournament](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1806-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
