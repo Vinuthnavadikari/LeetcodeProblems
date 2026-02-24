@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2864-maximum-odd-binary-number) |
 | [2881-split-strings-by-separator](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
+| [3174-clear-digits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3174-clear-digits) |
 | [3194-find-words-containing-character](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3194-find-words-containing-character) |
 | [3280-convert-date-to-binary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3280-convert-date-to-binary) |
 | [3379-score-of-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3379-score-of-a-string) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
+| [3174-clear-digits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3174-clear-digits) |
 | [3226-minimum-number-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3226-minimum-number-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2128-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
