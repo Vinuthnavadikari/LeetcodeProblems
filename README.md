@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2315-count-asterisks](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2325-decode-the-message) |
 | [2502-sort-the-people](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2502-sort-the-people) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2536-determine-if-two-events-have-conflict) |
