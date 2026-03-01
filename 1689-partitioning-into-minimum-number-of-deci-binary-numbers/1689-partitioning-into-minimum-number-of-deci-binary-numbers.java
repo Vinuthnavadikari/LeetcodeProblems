@@ -6,5 +6,6 @@ class Solution {
             max=Math.max(max,digit);
         }
         return max;
+       
     }
 }
