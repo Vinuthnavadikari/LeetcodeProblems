@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0551-student-attendance-record-i) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0572-subtree-of-another-tree) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2185-counting-words-with-a-given-prefix) |
