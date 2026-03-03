@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0322-coin-change) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1603-running-sum-of-1d-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1603-running-sum-of-1d-array) |
