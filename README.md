@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1773-count-items-matching-a-rule](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1797-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1832-check-if-the-sentence-is-pangram) |
