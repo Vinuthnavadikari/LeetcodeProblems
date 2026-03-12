@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0654-maximum-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0739-daily-temperatures) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2128-reverse-prefix-of-word) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 ## Number Theory
 |  |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0654-maximum-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0948-sort-an-array) |
 ## Greedy
 |  |
@@ -783,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
@@ -815,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0938-range-sum-of-bst) |
 ## String Matching
