@@ -792,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
@@ -812,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0938-range-sum-of-bst) |
 ## String Matching
