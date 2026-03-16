@@ -1,20 +1,17 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int freq=0,ans=0;
+        HashMap<Integer,Integer>map=new HashMap<>();
         for(int i=0;i<nums.length;i++){
-            if(freq==0){
-                ans=nums[i];
-            }
-            if(ans==nums[i]){
-                freq++;
-    
-            }
-            else{
-                freq--;
+           map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+        }
+        int max=Integer.MIN_VALUE;
+        int element=-1;
+        for(Map.Entry<Integer,Integer>entry:map.entrySet()){
+            if(entry.getValue()>max){
+                max=entry.getValue();
+                element=entry.getKey();
             }
         }
-        return ans;
-
-
+        return element;
     }
 }
