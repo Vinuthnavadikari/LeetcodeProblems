@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0389-find-the-difference) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1603-design-parking-system](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1603-design-parking-system) |
@@ -646,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0948-sort-an-array) |
 ## Greedy
@@ -669,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3226-minimum-number-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3226-minimum-number-game) |
@@ -694,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -858,4 +865,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0572-subtree-of-another-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
