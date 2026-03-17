@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0389-find-the-difference) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0342-power-of-four) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0371-sum-of-two-integers) |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0322-coin-change) |
@@ -517,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
