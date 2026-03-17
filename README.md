@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0326-power-of-three) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
