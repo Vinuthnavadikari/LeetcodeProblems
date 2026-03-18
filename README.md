@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2325-decode-the-message) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2367-number-of-arithmetic-triplets) |
+| [2404-most-frequent-even-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2502-sort-the-people](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2367-number-of-arithmetic-triplets) |
+| [2404-most-frequent-even-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2502-sort-the-people](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2502-sort-the-people) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2404-most-frequent-even-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
