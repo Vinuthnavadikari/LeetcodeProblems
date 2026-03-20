@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0066-plus-one) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0046-permutations) |
 | [1980-find-unique-binary-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2107-find-unique-binary-string) |
