@@ -1,15 +1,12 @@
 class Solution {
     public int countCommas(int n) {
-        int digit=0;
-        int a=n;
-        while(n>0){
-            digit++;
-            n/=10;
-        }
+   String a=String.valueOf(n);
+   int digit=a.length();
+       
         if(digit<4){
             return 0;
         }
-        return a-1000+1;
+        return n-1000+1;
 
         
     }
