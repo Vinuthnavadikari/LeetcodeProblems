@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
+| [0704-binary-search](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0739-daily-temperatures) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2210-find-target-indices-after-sorting-array) |
