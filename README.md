@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0058-length-of-last-word) |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Tree
 |  |
