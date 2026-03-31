@@ -1,26 +1,13 @@
 class Solution {
     public int firstUniqChar(String s) {
-        HashSet<Character>seenOnce=new HashSet<>();
-        HashSet<Character>seenMore=new HashSet<>();
-        for(char c:s.toCharArray()){
-            if(seenMore.contains(c)){
-                continue;
-            }
-            if(seenOnce.contains(c)){
-                seenOnce.remove(c);
-                seenMore.add(c);
-                
-            }
-            else{
-                seenOnce.add(c);
-            }
-
+        int[] count = new int[26];
+        for(int i=0; i<s.length(); i++){
+            count[s.charAt(i)- 'a']++;
         }
-        for(int i=0;i<s.length();i++){
-            if(seenOnce.contains(s.charAt(i))){
+        for(int i=0; i<s.length(); i++){
+            if(count[s.charAt(i) - 'a']==1){
                 return i;
             }
-
         }
         return -1;
     }
