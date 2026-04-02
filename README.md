@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1677-matrix-diagonal-sum) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0513-find-bottom-left-tree-value) |
@@ -875,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
@@ -930,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
