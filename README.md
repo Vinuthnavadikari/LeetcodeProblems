@@ -777,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Linked List
 |  |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0872-leaf-similar-trees) |
@@ -928,4 +930,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
