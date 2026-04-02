@@ -1,26 +1,45 @@
+import java.util.*;
+
 class Solution {
 
     public int findCircleNum(int[][] isConnected) {
         int V = isConnected.length;
-        int[] visited = new int[V];
+
+        // Step 1: Convert matrix → adjacency list
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+
+        for (int i = 0; i < V; i++) {
+            adj.add(new ArrayList<>());
+        }
+
+        for (int i = 0; i < V; i++) {
+            for (int j = 0; j < V; j++) {
+                if (isConnected[i][j] == 1 && i != j) {
+                    adj.get(i).add(j);
+                }
+            }
+        }
+
+        // Step 2: DFS to count provinces
+        boolean[] visited = new boolean[V];
         int count = 0;
 
         for (int i = 0; i < V; i++) {
-            if (visited[i] == 0) {
+            if (!visited[i]) {
                 count++;
-                dfs(i, isConnected, visited);
+                dfs(i, adj, visited);
             }
         }
 
         return count;
     }
 
-    private void dfs(int node, int[][] matrix, int[] visited) {
-        visited[node] = 1;
+    private void dfs(int node, ArrayList<ArrayList<Integer>> adj, boolean[] visited) {
+        visited[node] = true;
 
-        for (int j = 0; j < matrix.length; j++) {
-            if (matrix[node][j] == 1 && visited[j] == 0) {
-                dfs(j, matrix, visited);
+        for (int neighbor : adj.get(node)) {
+            if (!visited[neighbor]) {
+                dfs(neighbor, adj, visited);
             }
         }
     }
