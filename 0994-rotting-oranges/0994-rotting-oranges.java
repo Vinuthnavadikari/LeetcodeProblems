@@ -1,35 +1,90 @@
+// class Solution {
+//     public int orangesRotting(int[][] grid) {
+//        if(grid==null||grid.length==0)return -1;
+//        int rows=grid.length,cols=grid[0].length;
+//        int[][]time=new int[rows][cols];
+//        for(int i=0;i<rows;i++){
+//         Arrays.fill(time[i],Integer.MAX_VALUE);
+//        }
+//        for(int i=0;i<rows;i++){
+//         for(int j=0;j<cols;j++){
+//             if(grid[i][j]==2){
+//                 dfs(grid,time,i,j,0);
+//             }
+//         }
+//        }
+//        int timerequired=0;
+//        for(int i=0;i<rows;i++){
+//         for(int j=0;j<cols;j++){
+//             if(grid[i][j]==1){
+//                 if(time[i][j]==Integer.MAX_VALUE)return -1;
+//                 timerequired=Math.max(timerequired,time[i][j]);
+//             }
+//         }
+//        }
+//        return timerequired;
+//     }
+//     private void dfs(int[][]grid,int[][]time,int i,int j,int currentTime){
+//         if(i<0||i>=grid.length||j<0||j>=grid[0].length||grid[i][j]==0||currentTime>=time[i][j])return;
+//         time[i][j]=currentTime;
+//         dfs(grid,time,i+1,j,currentTime+1);
+//         dfs(grid,time,i-1,j,currentTime+1);
+//         dfs(grid,time,i,j+1,currentTime+1);
+//         dfs(grid,time,i,j-1,currentTime+1);
+//     }
+import java.util.*;
+
 class Solution {
+
     public int orangesRotting(int[][] grid) {
-       if(grid==null||grid.length==0)return -1;
-       int rows=grid.length,cols=grid[0].length;
-       int[][]time=new int[rows][cols];
-       for(int i=0;i<rows;i++){
-        Arrays.fill(time[i],Integer.MAX_VALUE);
-       }
-       for(int i=0;i<rows;i++){
-        for(int j=0;j<cols;j++){
-            if(grid[i][j]==2){
-                dfs(grid,time,i,j,0);
+        int n = grid.length;
+        int m = grid[0].length;
+
+        Queue<int[]> q = new LinkedList<>();
+        int fresh = 0;
+
+        // Step 1: Add all rotten oranges to queue
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == 2) {
+                    q.add(new int[]{i, j});
+                }
+                if (grid[i][j] == 1) {
+                    fresh++;
+                }
             }
         }
-       }
-       int timerequired=0;
-       for(int i=0;i<rows;i++){
-        for(int j=0;j<cols;j++){
-            if(grid[i][j]==1){
-                if(time[i][j]==Integer.MAX_VALUE)return -1;
-                timerequired=Math.max(timerequired,time[i][j]);
+
+        // Directions (4)
+        int[] dRow = {-1, 1, 0, 0};
+        int[] dCol = {0, 0, -1, 1};
+
+        int time = 0;
+
+        // Step 2: BFS
+        while (!q.isEmpty() && fresh > 0) {
+            int size = q.size();
+
+            for (int i = 0; i < size; i++) {
+                int[] curr = q.poll();
+                int r = curr[0];
+                int c = curr[1];
+
+                for (int k = 0; k < 4; k++) {
+                    int nr = r + dRow[k];
+                    int nc = c + dCol[k];
+
+                    if (nr >= 0 && nr < n && nc >= 0 && nc < m && grid[nr][nc] == 1) {
+                        grid[nr][nc] = 2;
+                        q.add(new int[]{nr, nc});
+                        fresh--;
+                    }
+                }
             }
+
+            time++;
         }
-       }
-       return timerequired;
-    }
-    private void dfs(int[][]grid,int[][]time,int i,int j,int currentTime){
-        if(i<0||i>=grid.length||j<0||j>=grid[0].length||grid[i][j]==0||currentTime>=time[i][j])return;
-        time[i][j]=currentTime;
-        dfs(grid,time,i+1,j,currentTime+1);
-        dfs(grid,time,i-1,j,currentTime+1);
-        dfs(grid,time,i,j+1,currentTime+1);
-        dfs(grid,time,i,j-1,currentTime+1);
+
+        return fresh == 0 ? time : -1;
     }
 }
