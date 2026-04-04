@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2498-frog-jump-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2498-frog-jump-ii) |
 | [2502-sort-the-people](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2502-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2498-frog-jump-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2498-frog-jump-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Brainteaser
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2498-frog-jump-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2498-frog-jump-ii) |
 | [2578-split-with-minimum-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2578-split-with-minimum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2864-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3074-apple-redistribution-into-boxes) |
