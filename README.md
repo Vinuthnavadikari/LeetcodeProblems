@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0804-unique-morse-code-words) |
+| [0860-lemonade-change](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0860-lemonade-change) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0896-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0948-sort-an-array) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0860-lemonade-change](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1323-maximum-69-number) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1561-maximum-number-of-coins-you-can-get) |
