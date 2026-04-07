@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0070-climbing-stairs) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0053-maximum-subarray) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0455-assign-cookies) |
