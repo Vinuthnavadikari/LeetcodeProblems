@@ -4,7 +4,6 @@ class Solution {
         for(int i=1;i<nums.length;i++){
             curr=Math.max(nums[i],curr+nums[i]);
             maxsum=Math.max(maxsum,curr);
-           
 
         }
         return maxsum;
