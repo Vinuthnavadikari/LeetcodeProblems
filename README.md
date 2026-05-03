@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0804-unique-morse-code-words) |
 | [0953-reverse-only-letters](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0953-reverse-only-letters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -956,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Hash Function
