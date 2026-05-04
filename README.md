@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0069-sqrtx) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0055-jump-game) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0733-flood-fill) |
