@@ -7,8 +7,7 @@
 -- SELECT name as Employee
 -- FROM Employee e
 -- WHERE salary >(SELECT salary from Employee m WHERE m.id=e.managerId);
-SELECT e.name AS Employee
+SELECT 
+e.name AS Employee
 FROM Employee e
-JOIN Employee m
-ON e.managerId=m.id
-WHERE e.salary>m.salary;
+WHERE e.salary>(SELECT m.salary FROM Employee m  WHERE m.id=e.managerId);
