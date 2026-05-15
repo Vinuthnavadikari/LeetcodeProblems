@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2502-sort-the-people](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2784-check-if-array-is-good](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2784-check-if-array-is-good) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2965-find-missing-and-repeated-values) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2578-split-with-minimum-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2578-split-with-minimum-sum) |
+| [2784-check-if-array-is-good](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2784-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2714-left-and-right-sum-differences) |
+| [2784-check-if-array-is-good](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2784-check-if-array-is-good) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
