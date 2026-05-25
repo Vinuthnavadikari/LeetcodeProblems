@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0948-sort-an-array) |
 ## Greedy
@@ -803,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -901,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0493-reverse-pairs) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
 |  |
@@ -1007,4 +1012,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1971-find-if-path-exists-in-graph) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
