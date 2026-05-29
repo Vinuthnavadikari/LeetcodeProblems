@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3280-convert-date-to-binary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3280-convert-date-to-binary) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3371-harshad-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3371-harshad-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3226-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3285-find-indices-of-stable-mountains) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3427-sum-of-variable-length-subarrays) |
