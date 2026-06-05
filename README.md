@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2211-count-collisions-on-a-road](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2211-count-collisions-on-a-road) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2235-capitalize-the-title) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2211-count-collisions-on-a-road](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2211-count-collisions-on-a-road) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2288-count-operations-to-obtain-zero) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2128-reverse-prefix-of-word) |
+| [2211-count-collisions-on-a-road](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2211-count-collisions-on-a-road) |
 | [3174-clear-digits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
