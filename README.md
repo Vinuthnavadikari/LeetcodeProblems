@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0733-flood-fill) |
