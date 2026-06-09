@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0066-plus-one) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0415-add-strings) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
