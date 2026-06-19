@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1677-matrix-diagonal-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1748-sum-of-unique-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2571-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2574-left-and-right-sum-differences) |
