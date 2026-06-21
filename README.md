@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1833-maximum-ice-cream-bars](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1791-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1833-maximum-ice-cream-bars](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1944-truncate-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1944-truncate-sentence) |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1833-maximum-ice-cream-bars](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Breadth-First Search
 |  |
