@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1859-sorting-the-sentence) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1944-truncate-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1944-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1980-find-unique-binary-string) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1944-truncate-sentence](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1944-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
