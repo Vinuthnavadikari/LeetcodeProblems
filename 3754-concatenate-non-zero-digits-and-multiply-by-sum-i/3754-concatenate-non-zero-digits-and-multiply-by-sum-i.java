@@ -1,26 +1,19 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        String s=Integer.toString(n);
-        StringBuilder sb=new StringBuilder();
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i)!='0'){
-                sb.append(s.charAt(i));
-                
-            }
+       long x=0;
+       long sum=0;
+       long place=1;
+       while(n>0){
+        int digit=n%10;
+        if(digit!=0){
+            x=digit*place+x;
+            sum+=digit;
+            place*=10;
         }
-        if(sb.length()==0){
-            return 0;
-        }
-        String str=sb.toString();
-        long num=Long.parseLong(str);
-        long temp=num;
-        long sum=0;
-        while(num>0){
-            
-            sum+=num%10;
-            num/=10;
-        }
-        return sum*temp;
+        n/=10;
+       }
+       return x*sum;
+
 
 
         
