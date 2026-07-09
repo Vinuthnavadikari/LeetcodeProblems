@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3778-transform-array-by-parity) |
 | [3838-weighted-word-mapping](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3838-weighted-word-mapping) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3925-concatenate-array-with-reverse](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3925-concatenate-array-with-reverse) |
 | [4008-restore-finishing-order](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/4058-compute-alternating-sum) |
 ## Simulation
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3811-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3925-concatenate-array-with-reverse) |
 | [4058-compute-alternating-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/4058-compute-alternating-sum) |
 ## Binary Search
 |  |
