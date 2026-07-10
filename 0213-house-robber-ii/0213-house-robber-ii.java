@@ -2,24 +2,30 @@ class Solution {
     public int rob(int[] nums) {
         int n=nums.length;
         if(n==1)return nums[0];
-        int[]temp1=Arrays.copyOfRange(nums,1,n);
-        int[]dp1=new int[n];
-        Arrays.fill(dp1,-1);
-        int ans1=f(temp1.length-1,temp1,dp1);
+        int skipFirst[]=new int[n-1];
+        int skipLast[]=new int[n-1];
+        for(int i=0;i<n-1;i++){
+            skipFirst[i]=nums[i+1];
+            skipLast[i]=nums[i];
+        }
+       int res1=robHelper(skipFirst);
+       int res2=robHelper(skipLast);
+       return Math.max(res1,res2);
+    }
+    public static int robHelper(int arr[]){
+        int n=arr.length;
+        if(n==1)return arr[0];
+        int dp[]=new int[n+1];
+        dp[0]=0;
+        dp[1]=arr[0];
+        for(int i=2;i<n+1;i++){
+            int steal=arr[i-1]+dp[i-2];
+            int skip=dp[i-1];
+            dp[i]=Math.max(steal,skip);
+        }
+        return dp[n];
 
-        int[]temp2=Arrays.copyOfRange(nums,0,n-1);
-        int[]dp2=new int[n];
-        Arrays.fill(dp2,-1);
-        int ans2=f(temp2.length-1,temp2,dp2);
-        return Math.max(ans1,ans2);
     }
-    static int f(int ind,int []nums,int []dp){
-        if(ind==0)return nums[0];
-        if(ind<0)return 0;
-        if(dp[ind]!=-1)return dp[ind];
-        int pick=nums[ind]+f(ind-2,nums,dp);
-        int notPick=f(ind-1,nums,dp);
-        return dp[ind]=Math.max(pick,notPick);
-    }
+    
 
 }
