@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0896-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1168-duplicate-zeros) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1603-running-sum-of-1d-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
