@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1064-smallest-integer-divisible-by-k](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1436-destination-city](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1436-destination-city) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1256-rank-transform-of-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1331-rank-transform-of-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1436-destination-city](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1436-destination-city) |
