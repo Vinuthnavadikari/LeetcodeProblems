@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0896-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0948-sort-an-array) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2498-frog-jump-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2498-frog-jump-ii) |
