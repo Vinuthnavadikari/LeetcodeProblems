@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3731-find-missing-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3778-transform-array-by-parity) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3870-count-commas-in-range) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3778-transform-array-by-parity) |
 | [3838-weighted-word-mapping](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3838-weighted-word-mapping) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3925-concatenate-array-with-reverse) |
 | [4008-restore-finishing-order](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/4058-compute-alternating-sum) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3811-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3925-concatenate-array-with-reverse) |
 | [4058-compute-alternating-sum](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/4058-compute-alternating-sum) |
 ## Binary Search
@@ -704,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3794-reverse-string-prefix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -737,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2427-number-of-common-factors) |
 | [2491-smallest-even-multiple](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/2491-smallest-even-multiple) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
