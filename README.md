@@ -718,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0503-next-greater-element-ii) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -984,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0232-implement-queue-using-stacks) |
 | [1603-design-parking-system](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/1603-design-parking-system) |
 ## Geometry
 |  |
