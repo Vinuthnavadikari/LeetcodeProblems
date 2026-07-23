@@ -13,20 +13,25 @@
  *     }
  * }
  */
-import java.util.*;
-
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> l = new ArrayList<>();
-        helper(root, l);
-        return l;
-    }
+        List<Integer>preOrder=new ArrayList<>();
+        if(root==null){
+            return preOrder;
+        }
+        Stack<TreeNode>st=new Stack<>();
+        st.push(root);
+        while(!st.isEmpty()){
+            root=st.pop();
+            preOrder.add(root.val);
+            if(root.right!=null){
+                st.push(root.right);
+            }
+            if(root.left!=null){
+                st.push(root.left);
+            }
+        }
+        return preOrder;
 
-    private void helper(TreeNode root, List<Integer> l) {
-        if (root == null) return;
-
-        l.add(root.val);          
-        helper(root.left, l);     
-        helper(root.right, l);    
     }
 }
