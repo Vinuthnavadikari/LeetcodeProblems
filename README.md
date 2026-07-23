@@ -829,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0169-majority-element) |
@@ -870,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0948-sort-an-array) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0948-sort-an-array) |
@@ -933,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinuthnavadikari/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
